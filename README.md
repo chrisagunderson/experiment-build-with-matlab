@@ -2,11 +2,11 @@
 
 In this project, participants are presented with emotional faces in different orientations and are asked to indicate which emotion they saw. Participant keyboard responses are recorded and an accuracy (i.e., `correct`) score is calculated.
 
-Specifically, participants were shown images from the [Karolinska Directed Emotional Faces](https://www.kdef.se/index.html) database of emotional faces which varied on emotion type (happy, angry, sad), orientation (side, midside, frontal), and target sex (male, female). 
+Specifically, participants were shown images from the [Karolinska Directed Emotional Faces](https://www.kdef.se/index.html) database which varied on emotion type (happy, angry, sad), orientation (side, midside, frontal), and target sex (male, female). 
 
 _Note:_
 
-Final Project (Winter 2019) for Programming I: Experiment Building with MATLAB. This project `psychtoolbox` to initiate a window, display images on the screen, and record keyboard input from participants.
+Final Project (Winter 2019) for Programming I: Experiment Building with MATLAB. Special thanks to Professor @tsweeny, the instructor of the course. This project `psychtoolbox` to initiate a window, display images on the screen, and record keyboard input from participants.
 
 - Initialize a screen to display stimuli
 - Load images in advance
