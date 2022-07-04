@@ -6,7 +6,7 @@ Specifically, participants were shown images from the [Karolinska Directed Emoti
 
 _Note:_
 
-Final Project (Winter 2019) for Programming I: Experiment Building with MATLAB. Special thanks to Professor [tsweeny](https://github.com/tsweeny), the instructor of the course. This project `psychtoolbox` to initiate a window, display images on the screen, and record keyboard input from participants.
+Final Project (Winter 2019) for Programming I: Experiment Building with MATLAB. Special thanks to Professor [tsweeny](https://github.com/tsweeny), the instructor of the course. This project `psychtoolbox` to initiate a window, display images on the screen, and record keyboard input from participants. See code [here](https://github.com/chrisagunderson/experiment-build-with-matlab/blob/main/GundersonFinalProject.m).
 
 - Initialize a screen to display stimuli
 - Load images in advance
